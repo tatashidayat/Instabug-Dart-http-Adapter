@@ -6,12 +6,12 @@ version: 2.3.0
 homepage: https://github.com/Instabug/Instabug-Flutter#readme
 
 environment:
-  sdk: '>=2.12.0 <3.0.0'
+  sdk: '>=3.0.0 <4.0.0'
 
 dependencies:
   flutter:
     sdk: flutter
-  http: ^0.13.3
+  http: ^1.1.0
   instabug_flutter: '>=12.0.0 <13.0.0'
   meta: ^1.3.0
 
